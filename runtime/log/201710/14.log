@@ -1,0 +1,212 @@
+---------------------------------------------------------------
+[ 2017-10-14T20:33:36+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ error ] [0]模板文件不存在:D:\phpStudy\WWW\tp5sst\public/../application/index\view\index\index.html
+---------------------------------------------------------------
+[ 2017-10-14T20:33:58+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.88.com/ [运行时间：0.069004s][吞吐率：14.49req/s] [内存消耗：1,701.99kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpStudy\WWW\tp5sst\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=916767744; pgv_si=s4553886720',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.88.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\tp5sst\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpStudy\WWW\tp5sst\public/../application/index\view\index\index.html[D:\phpStudy\WWW\tp5sst\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-14T20:34:19+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.88.com/ [运行时间：0.071004s][吞吐率：14.08req/s] [内存消耗：1,817.57kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpStudy\WWW\tp5sst\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=916767744; pgv_si=s4553886720; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.88.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\tp5sst\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpStudy\WWW\tp5sst\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-14T20:34:20+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.88.com/ [运行时间：0.062004s][吞吐率：16.13req/s] [内存消耗：1,684.32kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpStudy\WWW\tp5sst\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=916767744; pgv_si=s4553886720; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.88.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\tp5sst\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpStudy\WWW\tp5sst\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-14T20:34:43+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.88.com/ [运行时间：0.064004s][吞吐率：15.62req/s] [内存消耗：1,684.32kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpStudy\WWW\tp5sst\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=916767744; pgv_si=s4553886720; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.88.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\tp5sst\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpStudy\WWW\tp5sst\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-14T20:34:46+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.88.com/ [运行时间：0.060003s][吞吐率：16.67req/s] [内存消耗：1,684.30kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpStudy\WWW\tp5sst\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=916767744; pgv_si=s4553886720; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.88.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\tp5sst\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpStudy\WWW\tp5sst\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-14T20:35:12+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.88.com/ [运行时间：0.072004s][吞吐率：13.89req/s] [内存消耗：1,817.61kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpStudy\WWW\tp5sst\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=916767744; pgv_si=s4553886720; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.88.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\tp5sst\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpStudy\WWW\tp5sst\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-14T20:44:00+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] www.88.com/ [运行时间：0.071004s][吞吐率：14.08req/s] [内存消耗：1,818.27kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpStudy\WWW\tp5sst\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=916767744; pgv_si=s4553886720; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.88.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\tp5sst\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpStudy\WWW\tp5sst\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
